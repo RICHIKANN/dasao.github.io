@@ -1,13 +1,12 @@
 ![logo](_media/icon.svg)
 
-# docsify <small>1.3.3</small>
+# DAsAO <small>1.0</small>
 
-> A magical documentation site generator.
+> 一个正在找工作的人.
 
-- Simple and lightweight (~12kb gzipped)
-- Multiple themes
-- Not build static html files
+-
+-
+-
 
-
-[GitHub](https://github.com/QingWei-Li/docsify/)
-[Get Started](#quick-start)
+[简历下载](https://baidu.com/)
+[随便看看](#quick-start)
