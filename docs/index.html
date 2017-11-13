@@ -8,9 +8,16 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
 </head>
 <body>
-  <div id="app"></div>
+  <div id="app">hahahah</div>
 </body>
 <script
+  window.$docsify = {
+  // 加载 _sidebar.md
+  loadSidebar: true,
+
+  // 加载 summary.md
+  loadSidebar: 'summary.md'
+}
   src="//unpkg.com/docsify/lib/docsify.min.js"
   data-coverpage
   data-router>
